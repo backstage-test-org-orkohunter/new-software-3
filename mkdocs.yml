@@ -1,0 +1,8 @@
+site_name: "new-software-1"
+site_description: "new-software-1"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

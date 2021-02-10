@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "new-software-1"
+  description: "new-software-1"
+  annotations:
+    github.com/project-slug: backstage-test-org-orkohunter/new-software-3
+    backstage.io/techdocs-ref: url:https://github.com/backstage-test-org-orkohunter/new-software-3
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "backstage-test-org-orkohunter"
